@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="my">
+    <output-path>$PROJECT_DIR$/out/artifacts/my</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="archive" name="webServiceWeather.jar">
+          <element id="module-output" name="webServiceWeather" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
